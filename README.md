@@ -1,1 +1,1 @@
-Data Science and Artificial Intelligence Msc student
+Data Science
